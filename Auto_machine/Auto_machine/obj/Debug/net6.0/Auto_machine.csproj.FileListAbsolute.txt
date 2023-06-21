@@ -1,0 +1,15 @@
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.csproj.AssemblyReference.cache
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.AssemblyInfoInputs.cache
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.AssemblyInfo.cs
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.csproj.CoreCompileInputs.cache
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\bin\Debug\net6.0\Auto_machine.exe
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\bin\Debug\net6.0\Auto_machine.deps.json
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\bin\Debug\net6.0\Auto_machine.runtimeconfig.json
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\bin\Debug\net6.0\Auto_machine.dll
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\bin\Debug\net6.0\Auto_machine.pdb
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.dll
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\refint\Auto_machine.dll
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.pdb
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\Auto_machine.genruntimeconfig.cache
+C:\Users\Manpreet Ji\source\repos\Auto_machine\Auto_machine\obj\Debug\net6.0\ref\Auto_machine.dll
